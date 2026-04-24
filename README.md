@@ -12,6 +12,8 @@
 
 Dr. Marwa Mamdouh
 
+---
+
 
 An intelligent Connect 4 game developed as an Artificial Intelligence project.
 This project applies AI concepts to build a strategic agent capable of playing Connect 4 against a human player or another AI agent.
